@@ -1,0 +1,56 @@
+[
+  {
+    "id": "b1",
+    "libraryId": "lib-kahta",
+    "title": "Nemrut ve Kommagene Tarihi",
+    "author": "Yerel Araştırma",
+    "category": "Tarih",
+    "points": 80,
+    "isSpecial": true
+  },
+  {
+    "id": "b2",
+    "libraryId": "lib-gerger",
+    "title": "Kral Samos ve Fırat Havzası",
+    "author": "Yerel Tarih",
+    "category": "Tarih",
+    "points": 75,
+    "isSpecial": true
+  },
+  {
+    "id": "b3",
+    "libraryId": "lib-sincik",
+    "title": "Cendere Köprüsü ve Roma Yolları",
+    "author": "Kültür Atlası",
+    "category": "Arkeoloji",
+    "points": 65,
+    "isSpecial": true
+  },
+  {
+    "id": "b4",
+    "libraryId": "lib-kahta",
+    "title": "Arsemia’dan Kahta Kalesi’ne",
+    "author": "Adıyaman İncelemeleri",
+    "category": "Kültür",
+    "points": 60,
+    "isSpecial": true
+  },
+  {
+    "id": "b5",
+    "libraryId": "lib-gerger",
+    "title": "Anadolu Masalları",
+    "author": "Anonim",
+    "category": "Edebiyat",
+    "points": 15,
+    "isSpecial": false
+  },
+  {
+    "id": "b6",
+    "libraryId": "lib-sincik",
+    "title": "Gençler İçin Bilim",
+    "author": "Bilim Dizisi",
+    "category": "Bilim",
+    "points": 20,
+    "isSpecial": false
+  }
+]

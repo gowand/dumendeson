@@ -1,0 +1,28 @@
+[
+  {
+    "id": "e1",
+    "libraryId": "lib-kahta",
+    "title": "65. Kütüphane Haftası - Nemrut Okuma Atölyesi",
+    "date": "2026-03-30",
+    "time": "15:00",
+    "quota": 30,
+    "age": "10+",
+    "points": 120,
+    "cardId": "c7",
+    "status": "active",
+    "description": "Kütüphane Haftası özel okuma ve kültürel miras etkinliği."
+  },
+  {
+    "id": "e2",
+    "libraryId": "lib-gerger",
+    "title": "Kral Samos Hikâye Saati",
+    "date": "2026-04-02",
+    "time": "14:00",
+    "quota": 25,
+    "age": "8+",
+    "points": 90,
+    "cardId": null,
+    "status": "active",
+    "description": "Gerger kültür mirası üzerine hikâye ve okuma etkinliği."
+  }
+]

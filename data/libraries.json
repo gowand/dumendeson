@@ -1,0 +1,47 @@
+[
+  {
+    "id": "lib-gerger",
+    "slug": "gerger",
+    "name": "Adıyaman Gerger İlçe Halk Kütüphanesi",
+    "city": "Adıyaman",
+    "district": "Gerger",
+    "logo": "🏔️",
+    "banner": "Kral Samos ve Kımıl Dağı koleksiyonu"
+  },
+  {
+    "id": "lib-kahta",
+    "slug": "kahta",
+    "name": "Adıyaman Kahta İlçe Halk Kütüphanesi",
+    "city": "Adıyaman",
+    "district": "Kahta",
+    "logo": "☀️",
+    "banner": "Nemrut, Arsemia ve Kahta Kalesi kartları"
+  },
+  {
+    "id": "lib-sincik",
+    "slug": "sincik",
+    "name": "Adıyaman Sincik İlçe Halk Kütüphanesi",
+    "city": "Adıyaman",
+    "district": "Sincik",
+    "logo": "🦅",
+    "banner": "Karakuş Tümülüsü ve Cendere Köprüsü"
+  },
+  {
+    "id": "lib-samsat",
+    "slug": "samsat",
+    "name": "Adıyaman Samsat İlçe Halk Kütüphanesi",
+    "city": "Adıyaman",
+    "district": "Samsat",
+    "logo": "🏰",
+    "banner": "Eski Samsat Kalesi"
+  },
+  {
+    "id": "lib-celikhan",
+    "slug": "celikhan",
+    "name": "Adıyaman Çelikhan İlçe Halk Kütüphanesi",
+    "city": "Adıyaman",
+    "district": "Çelikhan",
+    "logo": "🏝️",
+    "banner": "Yüzen Adalar kartları"
+  }
+]

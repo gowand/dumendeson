@@ -1,0 +1,56 @@
+<!doctype html>
+<html>
+<head><%- include('head') %></head>
+<body>
+<%- include('nav') %>
+<main class="auth split-auth">
+  <section class="panel login-panel">
+    <div class="login-tabs">
+      <a class="tab <%= mode==='user' ? 'active' : '' %>" href="/login/user">👤 Kullanıcı Girişi</a>
+      <a class="tab <%= mode==='library' ? 'active' : '' %>" href="/login/library">🏛️ Kütüphane/Admin Girişi</a>
+    </div>
+
+    <h1><%= mode==='library' ? 'Kütüphane / Admin Girişi' : 'Kullanıcı Girişi' %></h1>
+    <p class="muted"><%= mode==='library' ? 'Kütüphane, il admin ve süper admin hesapları buradan girer.' : 'Okuyucu/kullanıcı hesapları buradan girer.' %></p>
+
+    <% if(error){ %><p class="err"><%= error %></p><% } %>
+
+    <form method="post" action="/login/<%= mode %>">
+      <input type="hidden" name="mode" value="<%= mode %>">
+      <input name="email" type="email" placeholder="Email" required>
+      <input name="password" type="password" placeholder="Şifre" required>
+      <button><%= mode==='library' ? 'Kütüphane Paneline Gir' : 'Kullanıcı Paneline Gir' %></button>
+    </form>
+  </section>
+
+  <aside class="panel demo-panel">
+    <h2>Demo Giriş Bilgileri</h2>
+    <p class="muted">Aşağıdaki hesaplardan birini kopyalayıp giriş yapabilirsin. Tüm şifreler: <b>123456</b></p>
+
+    <% if(mode==='library'){ %>
+      <h3>Kütüphane / Admin Hesapları</h3>
+      <div class="demo-list">
+        <% accounts.library.forEach(a => { %>
+          <div class="demo-account">
+            <strong><%= a.label %></strong>
+            <span><%= a.email %></span>
+            <small>Şifre: <%= a.pass %></small>
+          </div>
+        <% }) %>
+      </div>
+    <% } else { %>
+      <h3>Kullanıcı Hesapları</h3>
+      <div class="demo-list">
+        <% accounts.user.forEach(a => { %>
+          <div class="demo-account">
+            <strong><%= a.label %></strong>
+            <span><%= a.email %></span>
+            <small>Şifre: <%= a.pass %></small>
+          </div>
+        <% }) %>
+      </div>
+    <% } %>
+  </aside>
+</main>
+</body>
+</html>

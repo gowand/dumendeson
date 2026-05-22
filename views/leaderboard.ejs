@@ -1,0 +1,1 @@
+<!doctype html><html><head><%- include('head') %></head><body><%- include('nav') %><main><h1>Lider Tablosu</h1><div class="list"><% rows.forEach((r,i)=>{ %><div class="row"><b>#<%= i+1 %> <%= r.u.avatar %> <%= r.u.name %></b><span><%= r.loans %> kitap • <%= r.points %> puan</span></div><% }) %></div></main></body></html>

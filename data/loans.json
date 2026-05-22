@@ -1,0 +1,1466 @@
+[
+  {
+    "id": "c864efa8-4c09-41a8-9cf7-910306f93aab",
+    "userId": "u6",
+    "libraryId": "lib-gerger",
+    "bookId": "b2",
+    "points": 75,
+    "createdAt": "2026-05-22T10:09:42.054Z"
+  },
+  {
+    "id": "8f0aabd6-b86f-45c6-bb89-eb77e3fc8387",
+    "userId": "u6",
+    "libraryId": "lib-kahta",
+    "bookId": "b1",
+    "points": 80,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "7f6d83f9-a7b3-42f7-bc08-bc94e4ef9349",
+    "userId": "u6",
+    "libraryId": "lib-gerger",
+    "bookId": "b2",
+    "points": 75,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "686c6ddd-ad85-4f03-b6ab-c0ae4d63f618",
+    "userId": "u6",
+    "libraryId": "lib-kahta",
+    "bookId": "b1",
+    "points": 80,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "b22a0dd7-c35d-42d2-b54f-629f2ce82bbb",
+    "userId": "u6",
+    "libraryId": "lib-gerger",
+    "bookId": "b2",
+    "points": 75,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "7e20cdc9-3134-4129-8ff4-3645df10947d",
+    "userId": "u6",
+    "libraryId": "lib-kahta",
+    "bookId": "b1",
+    "points": 80,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "b8633ca5-a515-4fab-a300-59bc7dd69b61",
+    "userId": "u6",
+    "libraryId": "lib-gerger",
+    "bookId": "b2",
+    "points": 75,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "5f402764-7029-430d-aba7-59d8119bc4bd",
+    "userId": "u6",
+    "libraryId": "lib-kahta",
+    "bookId": "b1",
+    "points": 80,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "2a9b8862-b37a-4bec-96d8-0ee30c112db2",
+    "userId": "u6",
+    "libraryId": "lib-gerger",
+    "bookId": "b2",
+    "points": 75,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "f1666b11-bf59-4000-9f8e-08fc50deab82",
+    "userId": "u6",
+    "libraryId": "lib-kahta",
+    "bookId": "b1",
+    "points": 80,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "9e855516-477d-4ff4-ae48-99733940b70c",
+    "userId": "u6",
+    "libraryId": "lib-gerger",
+    "bookId": "b2",
+    "points": 75,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "a2caf9a1-9a39-4747-8f6c-f389d8bfdd14",
+    "userId": "u6",
+    "libraryId": "lib-kahta",
+    "bookId": "b1",
+    "points": 80,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "f16051c9-865a-4e81-8883-01d6ae4a389a",
+    "userId": "u6",
+    "libraryId": "lib-gerger",
+    "bookId": "b2",
+    "points": 75,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "ed2e32f4-0af1-41a8-8317-d62947ff29ba",
+    "userId": "u6",
+    "libraryId": "lib-kahta",
+    "bookId": "b1",
+    "points": 80,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "04722b45-54f6-46d4-9cb3-bb339ebacaf5",
+    "userId": "u6",
+    "libraryId": "lib-gerger",
+    "bookId": "b2",
+    "points": 75,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "6028d54e-e2c6-4a25-9a63-e2bfeec88d64",
+    "userId": "u6",
+    "libraryId": "lib-kahta",
+    "bookId": "b1",
+    "points": 80,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "a9e7c679-7778-46db-89ff-22e511abc080",
+    "userId": "u6",
+    "libraryId": "lib-gerger",
+    "bookId": "b2",
+    "points": 75,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "5e75580b-beb3-4d55-81f6-1e053a225295",
+    "userId": "u6",
+    "libraryId": "lib-kahta",
+    "bookId": "b1",
+    "points": 80,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "e1f557ee-0e70-4839-bdb6-760d4da6664f",
+    "userId": "u6",
+    "libraryId": "lib-gerger",
+    "bookId": "b2",
+    "points": 75,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "932cf726-4994-46a3-81d2-340b5cfc697c",
+    "userId": "u6",
+    "libraryId": "lib-kahta",
+    "bookId": "b1",
+    "points": 80,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "b2b81602-2d9c-4e9d-a42e-6c1c25986dfa",
+    "userId": "u6",
+    "libraryId": "lib-gerger",
+    "bookId": "b2",
+    "points": 75,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "0ef065ee-414e-4235-a762-c958a3a75a0a",
+    "userId": "u6",
+    "libraryId": "lib-kahta",
+    "bookId": "b1",
+    "points": 80,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "c43dd70b-60af-4ec0-b41c-afd687043f9b",
+    "userId": "u6",
+    "libraryId": "lib-gerger",
+    "bookId": "b2",
+    "points": 75,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "9605cec1-b80c-4c32-923d-c59f3510a18e",
+    "userId": "u6",
+    "libraryId": "lib-kahta",
+    "bookId": "b1",
+    "points": 80,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "28219b79-8de5-491a-8f03-022aa212d467",
+    "userId": "u6",
+    "libraryId": "lib-gerger",
+    "bookId": "b2",
+    "points": 75,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "bb3dc6fc-5016-44c2-b399-47d8d012ca89",
+    "userId": "u6",
+    "libraryId": "lib-kahta",
+    "bookId": "b1",
+    "points": 80,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "39d3a6dc-cc91-4e52-9ab2-754678acfd2d",
+    "userId": "u6",
+    "libraryId": "lib-gerger",
+    "bookId": "b2",
+    "points": 75,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "4779a186-8be8-4af8-8ebc-4c67889a72fb",
+    "userId": "u6",
+    "libraryId": "lib-kahta",
+    "bookId": "b1",
+    "points": 80,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "411edec9-54d7-4002-adc6-83d4a467ff32",
+    "userId": "u6",
+    "libraryId": "lib-gerger",
+    "bookId": "b2",
+    "points": 75,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "67b90b72-3f1d-4b90-aba3-b258e935b848",
+    "userId": "u6",
+    "libraryId": "lib-kahta",
+    "bookId": "b1",
+    "points": 80,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "c3fb61d3-53b1-4d6a-ba19-6f55d0ae48cc",
+    "userId": "u6",
+    "libraryId": "lib-gerger",
+    "bookId": "b2",
+    "points": 75,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "069fbba1-30eb-46e1-ad8b-ab973205ea86",
+    "userId": "u6",
+    "libraryId": "lib-kahta",
+    "bookId": "b1",
+    "points": 80,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "f17a6785-2caf-481d-899c-4f5f1c36f881",
+    "userId": "u6",
+    "libraryId": "lib-gerger",
+    "bookId": "b2",
+    "points": 75,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "2ee6e46e-7856-4504-a622-7073ab79d2c2",
+    "userId": "u6",
+    "libraryId": "lib-kahta",
+    "bookId": "b1",
+    "points": 80,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "a0b2aa0a-e6ca-4288-b61c-b244e66694a3",
+    "userId": "u6",
+    "libraryId": "lib-gerger",
+    "bookId": "b2",
+    "points": 75,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "0cfb6a2c-d386-48b2-a01d-23e090f950bb",
+    "userId": "u6",
+    "libraryId": "lib-kahta",
+    "bookId": "b1",
+    "points": 80,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "797de6b0-460a-49b3-a89a-d06c0b2b4c72",
+    "userId": "u6",
+    "libraryId": "lib-gerger",
+    "bookId": "b2",
+    "points": 75,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "a2b288ea-f912-4053-aaf6-2b1141e66337",
+    "userId": "u6",
+    "libraryId": "lib-kahta",
+    "bookId": "b1",
+    "points": 80,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "1c9e5e04-b5b4-42de-bd07-2eb7a7cf836f",
+    "userId": "u6",
+    "libraryId": "lib-gerger",
+    "bookId": "b2",
+    "points": 75,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "b8f48b65-81ab-46e0-9410-6d05976c58e1",
+    "userId": "u6",
+    "libraryId": "lib-kahta",
+    "bookId": "b1",
+    "points": 80,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "80eab7fc-eeee-4aa5-b27e-47a21e93b6fb",
+    "userId": "u6",
+    "libraryId": "lib-gerger",
+    "bookId": "b2",
+    "points": 75,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "d7a9f0fb-c24e-4966-81ce-ff7a60594cc1",
+    "userId": "u6",
+    "libraryId": "lib-kahta",
+    "bookId": "b1",
+    "points": 80,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "0281b54b-989b-4fc0-890f-70197979376b",
+    "userId": "u6",
+    "libraryId": "lib-gerger",
+    "bookId": "b2",
+    "points": 75,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "b9bee1c2-ae99-43fa-ab40-db7c5dc2e56f",
+    "userId": "u6",
+    "libraryId": "lib-kahta",
+    "bookId": "b1",
+    "points": 80,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "1352f32b-04a7-4aee-b5c2-1b41b47bbe92",
+    "userId": "u6",
+    "libraryId": "lib-gerger",
+    "bookId": "b2",
+    "points": 75,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "1de711bf-9931-4ebb-9b1c-c48509855742",
+    "userId": "u6",
+    "libraryId": "lib-kahta",
+    "bookId": "b1",
+    "points": 80,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "28b9d423-e272-493c-a712-5a38da0f5b1b",
+    "userId": "u6",
+    "libraryId": "lib-gerger",
+    "bookId": "b2",
+    "points": 75,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "d20225ab-bfd8-4612-9020-8bb8ca58f721",
+    "userId": "u6",
+    "libraryId": "lib-kahta",
+    "bookId": "b1",
+    "points": 80,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "4e09095f-e03f-4803-a1d6-747a16292f36",
+    "userId": "u6",
+    "libraryId": "lib-gerger",
+    "bookId": "b2",
+    "points": 75,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "4a28a2f4-dd30-4a7b-a8e5-1a92bc742d8f",
+    "userId": "u6",
+    "libraryId": "lib-kahta",
+    "bookId": "b1",
+    "points": 80,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "0f09ea66-46b7-4677-8f5c-7a914267b40f",
+    "userId": "u6",
+    "libraryId": "lib-gerger",
+    "bookId": "b2",
+    "points": 75,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "a5ca9fde-63f2-4fd2-821c-32777c46c8c1",
+    "userId": "u6",
+    "libraryId": "lib-kahta",
+    "bookId": "b1",
+    "points": 80,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "ed56617b-b7c8-4e4d-bbe4-3acad0f33168",
+    "userId": "u6",
+    "libraryId": "lib-gerger",
+    "bookId": "b2",
+    "points": 75,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "41bd196a-8f6c-4497-a530-b1972b8bba27",
+    "userId": "u6",
+    "libraryId": "lib-kahta",
+    "bookId": "b1",
+    "points": 80,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "0bb62924-593f-4ac1-a740-32e5c9c284e5",
+    "userId": "u6",
+    "libraryId": "lib-gerger",
+    "bookId": "b2",
+    "points": 75,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "fb3f2cb7-3955-48bf-bbbd-c4e57c746dde",
+    "userId": "u6",
+    "libraryId": "lib-kahta",
+    "bookId": "b1",
+    "points": 80,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "180b3896-3944-4253-a70f-c508d866d631",
+    "userId": "u6",
+    "libraryId": "lib-gerger",
+    "bookId": "b2",
+    "points": 75,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "00e7355e-7425-4b96-9def-78442cd9128b",
+    "userId": "u6",
+    "libraryId": "lib-kahta",
+    "bookId": "b1",
+    "points": 80,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "3a05374c-3a42-4a7b-b6cc-245b8d476ff6",
+    "userId": "u6",
+    "libraryId": "lib-gerger",
+    "bookId": "b2",
+    "points": 75,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "3cb23a3a-771f-4fd4-9019-a647effd7581",
+    "userId": "u6",
+    "libraryId": "lib-kahta",
+    "bookId": "b1",
+    "points": 80,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "4a3c6988-df9e-464a-97af-d54ef2a7bccd",
+    "userId": "u6",
+    "libraryId": "lib-gerger",
+    "bookId": "b2",
+    "points": 75,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "13e444c5-7c5d-4108-8b93-8f30537ec6ea",
+    "userId": "u6",
+    "libraryId": "lib-kahta",
+    "bookId": "b1",
+    "points": 80,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "58180b86-5b04-430e-a96f-75879ccd4811",
+    "userId": "u6",
+    "libraryId": "lib-gerger",
+    "bookId": "b2",
+    "points": 75,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "35216ac8-c2f9-4d7a-8e6c-7ad850fb4518",
+    "userId": "u6",
+    "libraryId": "lib-kahta",
+    "bookId": "b1",
+    "points": 80,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "e9688ae0-c18d-4953-a348-4b3b0b8b852b",
+    "userId": "u6",
+    "libraryId": "lib-gerger",
+    "bookId": "b2",
+    "points": 75,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "feee1c25-4dde-4c48-aff1-72f31f77a558",
+    "userId": "u6",
+    "libraryId": "lib-kahta",
+    "bookId": "b1",
+    "points": 80,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "b33be647-3482-4089-8a94-a3847873fafa",
+    "userId": "u6",
+    "libraryId": "lib-gerger",
+    "bookId": "b2",
+    "points": 75,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "7485605a-5506-45c4-836c-a6485c2f956b",
+    "userId": "u6",
+    "libraryId": "lib-kahta",
+    "bookId": "b1",
+    "points": 80,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "9e9bbc10-4f02-419d-9e8b-19f3d7abe9a8",
+    "userId": "u6",
+    "libraryId": "lib-gerger",
+    "bookId": "b2",
+    "points": 75,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "1075a4b1-55ca-48e9-ad97-24217491367b",
+    "userId": "u6",
+    "libraryId": "lib-kahta",
+    "bookId": "b1",
+    "points": 80,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "25cb8a2a-b4e6-4b97-86d9-9a604a518960",
+    "userId": "u6",
+    "libraryId": "lib-gerger",
+    "bookId": "b2",
+    "points": 75,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "40a36758-a95b-49a9-b5a0-2605aabf26c7",
+    "userId": "u6",
+    "libraryId": "lib-kahta",
+    "bookId": "b1",
+    "points": 80,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "ce3def4c-534e-47ac-bfa6-dbf6e92e2251",
+    "userId": "u6",
+    "libraryId": "lib-gerger",
+    "bookId": "b2",
+    "points": 75,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "c9972804-2a7e-46ae-8962-0e3efee46775",
+    "userId": "u6",
+    "libraryId": "lib-kahta",
+    "bookId": "b1",
+    "points": 80,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "98858bf8-1b2e-4715-890f-e8ee42cff98f",
+    "userId": "u6",
+    "libraryId": "lib-gerger",
+    "bookId": "b2",
+    "points": 75,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "12a241ee-022c-4c69-b3d5-80f0bd3719fd",
+    "userId": "u6",
+    "libraryId": "lib-kahta",
+    "bookId": "b1",
+    "points": 80,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "6c44c2d4-6f6a-4a00-8607-a73411485f7f",
+    "userId": "u6",
+    "libraryId": "lib-gerger",
+    "bookId": "b2",
+    "points": 75,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "642c6f33-2119-4a16-b0f9-9e4879a920ad",
+    "userId": "u6",
+    "libraryId": "lib-kahta",
+    "bookId": "b1",
+    "points": 80,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "5ba66ec8-17cb-4de6-872f-3c4d56bfd824",
+    "userId": "u6",
+    "libraryId": "lib-gerger",
+    "bookId": "b2",
+    "points": 75,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "2ec7bcc4-21bb-49d3-bd5b-3bfe3bbc1d3a",
+    "userId": "u6",
+    "libraryId": "lib-kahta",
+    "bookId": "b1",
+    "points": 80,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "4a9e0028-88c2-48fa-a948-abf4e3a73ca1",
+    "userId": "u6",
+    "libraryId": "lib-gerger",
+    "bookId": "b2",
+    "points": 75,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "ed75edd7-440a-4908-b548-f0d5e6e9e2f0",
+    "userId": "u6",
+    "libraryId": "lib-kahta",
+    "bookId": "b1",
+    "points": 80,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "c0d6aaec-995d-4fb5-a9d5-6b40e491bc90",
+    "userId": "u6",
+    "libraryId": "lib-gerger",
+    "bookId": "b2",
+    "points": 75,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "461b2917-84f3-4d2d-8bab-68826d8b4104",
+    "userId": "u6",
+    "libraryId": "lib-kahta",
+    "bookId": "b1",
+    "points": 80,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "0358adc7-f956-4fd4-a267-117df41af4ae",
+    "userId": "u6",
+    "libraryId": "lib-gerger",
+    "bookId": "b2",
+    "points": 75,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "0c88b5f1-1652-4537-bf7f-f422fe7a6abf",
+    "userId": "u6",
+    "libraryId": "lib-kahta",
+    "bookId": "b1",
+    "points": 80,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "b47cdf26-eb25-4e97-96f0-013e226fb810",
+    "userId": "u6",
+    "libraryId": "lib-gerger",
+    "bookId": "b2",
+    "points": 75,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "7bc45f62-728f-4156-a355-c49867d7e268",
+    "userId": "u6",
+    "libraryId": "lib-kahta",
+    "bookId": "b1",
+    "points": 80,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "81210716-762d-4aa6-8466-7388af9e8d05",
+    "userId": "u6",
+    "libraryId": "lib-gerger",
+    "bookId": "b2",
+    "points": 75,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "c84eade7-4d27-4c00-a894-14657e5cb841",
+    "userId": "u6",
+    "libraryId": "lib-kahta",
+    "bookId": "b1",
+    "points": 80,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "10d2da00-d023-436a-a5d4-97669b8278ea",
+    "userId": "u6",
+    "libraryId": "lib-gerger",
+    "bookId": "b2",
+    "points": 75,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "498a70b7-7ef1-483b-86ca-b4630a32449d",
+    "userId": "u6",
+    "libraryId": "lib-kahta",
+    "bookId": "b1",
+    "points": 80,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "bf97707f-56a9-43c8-a985-7207fdfc48be",
+    "userId": "u6",
+    "libraryId": "lib-gerger",
+    "bookId": "b2",
+    "points": 75,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "8b3311c1-6afe-42f9-9f40-02b73b2c153b",
+    "userId": "u6",
+    "libraryId": "lib-kahta",
+    "bookId": "b1",
+    "points": 80,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "42fc72b1-4b50-4193-86e5-1a29a3b913ad",
+    "userId": "u6",
+    "libraryId": "lib-gerger",
+    "bookId": "b2",
+    "points": 75,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "98a7ffa0-199e-4e75-b7e4-ac325172f6ed",
+    "userId": "u6",
+    "libraryId": "lib-kahta",
+    "bookId": "b1",
+    "points": 80,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "81061d4a-1b90-499c-b91c-c7f70a7040ea",
+    "userId": "u6",
+    "libraryId": "lib-gerger",
+    "bookId": "b2",
+    "points": 75,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "9112f88b-ebf9-4f74-9f85-b4d3fc07eed2",
+    "userId": "u6",
+    "libraryId": "lib-kahta",
+    "bookId": "b1",
+    "points": 80,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "e233e55e-7b9a-4f0c-8620-0884923f401a",
+    "userId": "u6",
+    "libraryId": "lib-gerger",
+    "bookId": "b2",
+    "points": 75,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "02d5476c-2e8c-447b-b2ac-f4e2c807d49f",
+    "userId": "u6",
+    "libraryId": "lib-kahta",
+    "bookId": "b1",
+    "points": 80,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "4b2b3c9d-04fa-4ee5-b2b8-ea22e56e81a6",
+    "userId": "u6",
+    "libraryId": "lib-gerger",
+    "bookId": "b2",
+    "points": 75,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "4b3a8c86-8e4a-45f2-aa5f-7e37ad610e77",
+    "userId": "u6",
+    "libraryId": "lib-kahta",
+    "bookId": "b1",
+    "points": 80,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "60bce4b0-befb-4602-abea-49bcaa6cc4d4",
+    "userId": "u6",
+    "libraryId": "lib-gerger",
+    "bookId": "b2",
+    "points": 75,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "12720b5a-1fa4-484d-ae95-f2714b17566a",
+    "userId": "u6",
+    "libraryId": "lib-kahta",
+    "bookId": "b1",
+    "points": 80,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "49323c9e-318e-42f5-b4f8-c5a7f9c0655e",
+    "userId": "u6",
+    "libraryId": "lib-gerger",
+    "bookId": "b2",
+    "points": 75,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "822fd8fa-4740-4dd8-a776-5364af62bbd8",
+    "userId": "u6",
+    "libraryId": "lib-kahta",
+    "bookId": "b1",
+    "points": 80,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "e86bad3e-5145-4697-ae82-cc9834c0a2d9",
+    "userId": "u6",
+    "libraryId": "lib-gerger",
+    "bookId": "b2",
+    "points": 75,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "acf35b00-9e31-427b-9c26-3c99f75bb88e",
+    "userId": "u6",
+    "libraryId": "lib-kahta",
+    "bookId": "b1",
+    "points": 80,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "f675ad69-6958-450d-abab-024afacf3f9b",
+    "userId": "u6",
+    "libraryId": "lib-gerger",
+    "bookId": "b2",
+    "points": 75,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "40671fc6-580f-4011-ad52-ebda14c1231c",
+    "userId": "u6",
+    "libraryId": "lib-kahta",
+    "bookId": "b1",
+    "points": 80,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "175eb11c-cbcf-4e84-97e9-50586ad5cd49",
+    "userId": "u6",
+    "libraryId": "lib-gerger",
+    "bookId": "b2",
+    "points": 75,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "c8399d7c-0adc-4d5f-b110-ea934f493c10",
+    "userId": "u6",
+    "libraryId": "lib-kahta",
+    "bookId": "b1",
+    "points": 80,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "f275d429-43ec-492a-aa73-8656a4591b27",
+    "userId": "u6",
+    "libraryId": "lib-gerger",
+    "bookId": "b2",
+    "points": 75,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "38e9c5d5-3649-45e6-8fee-bcd3c1dbffe8",
+    "userId": "u6",
+    "libraryId": "lib-kahta",
+    "bookId": "b1",
+    "points": 80,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "bbe75fb8-bfbf-4e55-86fa-3695b766928f",
+    "userId": "u6",
+    "libraryId": "lib-gerger",
+    "bookId": "b2",
+    "points": 75,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "355313ca-0e75-419a-9b11-c540b2ca150c",
+    "userId": "u6",
+    "libraryId": "lib-kahta",
+    "bookId": "b1",
+    "points": 80,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "96e52326-0b3b-42db-8efe-65e7eb6d0128",
+    "userId": "u6",
+    "libraryId": "lib-gerger",
+    "bookId": "b2",
+    "points": 75,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "396564cd-7b7f-41dd-a12b-1409fc522e82",
+    "userId": "u6",
+    "libraryId": "lib-kahta",
+    "bookId": "b1",
+    "points": 80,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "badac5bf-fe8d-4f31-af4f-eec02b95fdbd",
+    "userId": "u6",
+    "libraryId": "lib-gerger",
+    "bookId": "b2",
+    "points": 75,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "30997f13-4ecb-44a9-8cee-99b9ac17b9e8",
+    "userId": "u6",
+    "libraryId": "lib-kahta",
+    "bookId": "b1",
+    "points": 80,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "48d2b4ee-dda2-4c92-85b2-b5c55a3820df",
+    "userId": "u7",
+    "libraryId": "lib-sincik",
+    "bookId": "b6",
+    "points": 20,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "5a3b1d5d-3fde-404e-99f6-10d952c61a57",
+    "userId": "u7",
+    "libraryId": "lib-sincik",
+    "bookId": "b6",
+    "points": 20,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "1424338a-d14e-4cd1-b9eb-97d371000428",
+    "userId": "u7",
+    "libraryId": "lib-sincik",
+    "bookId": "b6",
+    "points": 20,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "0114090a-62fe-4ba5-9ca5-20f932ed91a4",
+    "userId": "u7",
+    "libraryId": "lib-sincik",
+    "bookId": "b6",
+    "points": 20,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "ef881e48-fbce-4662-8876-78c2705cdb84",
+    "userId": "u7",
+    "libraryId": "lib-sincik",
+    "bookId": "b6",
+    "points": 20,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "7e949692-630a-4466-9d67-fa83acd44221",
+    "userId": "u7",
+    "libraryId": "lib-sincik",
+    "bookId": "b6",
+    "points": 20,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "03180dfb-56e8-47a1-ab59-f2d13a584d53",
+    "userId": "u7",
+    "libraryId": "lib-sincik",
+    "bookId": "b6",
+    "points": 20,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "1d7eec1d-4464-4013-ad47-6de70f6ffa7b",
+    "userId": "u7",
+    "libraryId": "lib-sincik",
+    "bookId": "b6",
+    "points": 20,
+    "createdAt": "2026-05-22T10:09:42.055Z"
+  },
+  {
+    "id": "0ab69dc0-0484-444b-a34b-2e5a5b0a8e23",
+    "userId": "u8",
+    "libraryId": "lib-sincik",
+    "bookId": "b3",
+    "points": 65,
+    "createdAt": "2026-05-22T10:09:42.056Z"
+  },
+  {
+    "id": "49b812fc-7694-443b-8832-b36329e30108",
+    "userId": "u8",
+    "libraryId": "lib-sincik",
+    "bookId": "b6",
+    "points": 20,
+    "createdAt": "2026-05-22T10:09:42.056Z"
+  },
+  {
+    "id": "90054161-0650-422d-b9db-59b1a132de58",
+    "userId": "u8",
+    "libraryId": "lib-sincik",
+    "bookId": "b6",
+    "points": 20,
+    "createdAt": "2026-05-22T10:09:42.056Z"
+  },
+  {
+    "id": "d591b67f-c821-457e-887a-84178687bc57",
+    "userId": "u8",
+    "libraryId": "lib-sincik",
+    "bookId": "b6",
+    "points": 20,
+    "createdAt": "2026-05-22T10:09:42.056Z"
+  },
+  {
+    "id": "57033611-340a-4c28-a91c-74f9cfc8e6b9",
+    "userId": "u8",
+    "libraryId": "lib-sincik",
+    "bookId": "b6",
+    "points": 20,
+    "createdAt": "2026-05-22T10:09:42.056Z"
+  },
+  {
+    "id": "6b9c3f46-9e86-4fd6-9402-b4b8a7c885b2",
+    "userId": "u8",
+    "libraryId": "lib-sincik",
+    "bookId": "b6",
+    "points": 20,
+    "createdAt": "2026-05-22T10:09:42.056Z"
+  },
+  {
+    "id": "90835b06-2783-40fd-8106-fb8cff9f3353",
+    "userId": "u8",
+    "libraryId": "lib-sincik",
+    "bookId": "b6",
+    "points": 20,
+    "createdAt": "2026-05-22T10:09:42.056Z"
+  },
+  {
+    "id": "a7c52630-6de6-4a8f-9f9a-1177b634bcf7",
+    "userId": "u8",
+    "libraryId": "lib-sincik",
+    "bookId": "b6",
+    "points": 20,
+    "createdAt": "2026-05-22T10:09:42.056Z"
+  },
+  {
+    "id": "a149f1ae-233a-4986-85e9-4611f892483b",
+    "userId": "u8",
+    "libraryId": "lib-sincik",
+    "bookId": "b6",
+    "points": 20,
+    "createdAt": "2026-05-22T10:09:42.056Z"
+  },
+  {
+    "id": "eef30af6-affc-4269-8c2c-209ffb064f2b",
+    "userId": "u8",
+    "libraryId": "lib-sincik",
+    "bookId": "b6",
+    "points": 20,
+    "createdAt": "2026-05-22T10:09:42.056Z"
+  },
+  {
+    "id": "62fb9e11-5a49-4da4-9e0c-7294b3f21ee1",
+    "userId": "u8",
+    "libraryId": "lib-sincik",
+    "bookId": "b6",
+    "points": 20,
+    "createdAt": "2026-05-22T10:09:42.056Z"
+  },
+  {
+    "id": "61b7e1e2-e351-4619-bb75-0922f2e0b4fe",
+    "userId": "u8",
+    "libraryId": "lib-sincik",
+    "bookId": "b6",
+    "points": 20,
+    "createdAt": "2026-05-22T10:09:42.056Z"
+  },
+  {
+    "id": "68410693-ed3a-4a0a-866d-ade682319302",
+    "userId": "u8",
+    "libraryId": "lib-sincik",
+    "bookId": "b6",
+    "points": 20,
+    "createdAt": "2026-05-22T10:09:42.056Z"
+  },
+  {
+    "id": "57a93f4b-875e-456e-b337-830e9b64ae98",
+    "userId": "u8",
+    "libraryId": "lib-sincik",
+    "bookId": "b6",
+    "points": 20,
+    "createdAt": "2026-05-22T10:09:42.056Z"
+  },
+  {
+    "id": "6d0855fc-4251-4c66-aede-2cda042c63da",
+    "userId": "u8",
+    "libraryId": "lib-sincik",
+    "bookId": "b6",
+    "points": 20,
+    "createdAt": "2026-05-22T10:09:42.056Z"
+  },
+  {
+    "id": "cc418ac1-8993-4c4a-8d6e-c8ac00ff91e4",
+    "userId": "u8",
+    "libraryId": "lib-sincik",
+    "bookId": "b6",
+    "points": 20,
+    "createdAt": "2026-05-22T10:09:42.056Z"
+  },
+  {
+    "id": "2067a524-79e4-494f-95b8-47258e2e0d3a",
+    "userId": "u8",
+    "libraryId": "lib-sincik",
+    "bookId": "b6",
+    "points": 20,
+    "createdAt": "2026-05-22T10:09:42.056Z"
+  },
+  {
+    "id": "f5aebed7-d12c-48d5-927a-1195f8137c48",
+    "userId": "u8",
+    "libraryId": "lib-sincik",
+    "bookId": "b6",
+    "points": 20,
+    "createdAt": "2026-05-22T10:09:42.056Z"
+  },
+  {
+    "id": "fa0f8dbe-f5a7-4772-827b-5e357b6dfbb7",
+    "userId": "u8",
+    "libraryId": "lib-sincik",
+    "bookId": "b6",
+    "points": 20,
+    "createdAt": "2026-05-22T10:09:42.056Z"
+  },
+  {
+    "id": "69399f74-ca7d-47da-afb7-19770c77efdb",
+    "userId": "u8",
+    "libraryId": "lib-sincik",
+    "bookId": "b6",
+    "points": 20,
+    "createdAt": "2026-05-22T10:09:42.056Z"
+  },
+  {
+    "id": "e353ede7-b0bc-4498-8e71-e69fe81e84cf",
+    "userId": "u8",
+    "libraryId": "lib-sincik",
+    "bookId": "b6",
+    "points": 20,
+    "createdAt": "2026-05-22T10:09:42.056Z"
+  },
+  {
+    "id": "f8bf6ec9-d9bf-4060-91aa-c8829c18cb53",
+    "userId": "u8",
+    "libraryId": "lib-sincik",
+    "bookId": "b6",
+    "points": 20,
+    "createdAt": "2026-05-22T10:09:42.056Z"
+  },
+  {
+    "id": "6c483799-285f-47c0-bcf7-d055eec6592b",
+    "userId": "u8",
+    "libraryId": "lib-sincik",
+    "bookId": "b6",
+    "points": 20,
+    "createdAt": "2026-05-22T10:09:42.056Z"
+  },
+  {
+    "id": "4c65b1d6-3309-4db1-86a2-4f1247136c2e",
+    "userId": "u8",
+    "libraryId": "lib-sincik",
+    "bookId": "b6",
+    "points": 20,
+    "createdAt": "2026-05-22T10:09:42.056Z"
+  },
+  {
+    "id": "51a6b920-3581-4d62-aa25-62e7d97c0bfa",
+    "userId": "u8",
+    "libraryId": "lib-sincik",
+    "bookId": "b6",
+    "points": 20,
+    "createdAt": "2026-05-22T10:09:42.056Z"
+  },
+  {
+    "id": "694d2893-1783-4272-8aff-03f471fb6851",
+    "userId": "u8",
+    "libraryId": "lib-sincik",
+    "bookId": "b6",
+    "points": 20,
+    "createdAt": "2026-05-22T10:09:42.056Z"
+  },
+  {
+    "id": "6e29e4cd-60d1-4023-97b2-bfbe6ab10a9b",
+    "userId": "u8",
+    "libraryId": "lib-sincik",
+    "bookId": "b6",
+    "points": 20,
+    "createdAt": "2026-05-22T10:09:42.056Z"
+  },
+  {
+    "id": "6007ebe4-fb00-41d9-ae3b-e6faa94d848f",
+    "userId": "u8",
+    "libraryId": "lib-sincik",
+    "bookId": "b6",
+    "points": 20,
+    "createdAt": "2026-05-22T10:09:42.056Z"
+  },
+  {
+    "id": "552a1bd4-1630-404d-96b5-4ca320368992",
+    "userId": "u8",
+    "libraryId": "lib-sincik",
+    "bookId": "b6",
+    "points": 20,
+    "createdAt": "2026-05-22T10:09:42.056Z"
+  },
+  {
+    "id": "a1fe4ff3-2340-43d8-aa55-e40476ad8a3e",
+    "userId": "u8",
+    "libraryId": "lib-sincik",
+    "bookId": "b6",
+    "points": 20,
+    "createdAt": "2026-05-22T10:09:42.056Z"
+  },
+  {
+    "id": "8a739bdf-8248-46bf-84bb-3930d345ae0c",
+    "userId": "u8",
+    "libraryId": "lib-sincik",
+    "bookId": "b6",
+    "points": 20,
+    "createdAt": "2026-05-22T10:09:42.056Z"
+  },
+  {
+    "id": "b90f341f-cd83-48ec-9873-8ede0ac5c7d7",
+    "userId": "u8",
+    "libraryId": "lib-sincik",
+    "bookId": "b6",
+    "points": 20,
+    "createdAt": "2026-05-22T10:09:42.056Z"
+  },
+  {
+    "id": "ced94037-f748-4f9f-af9a-1ef83a8a2ebd",
+    "userId": "u8",
+    "libraryId": "lib-sincik",
+    "bookId": "b6",
+    "points": 20,
+    "createdAt": "2026-05-22T10:09:42.056Z"
+  },
+  {
+    "id": "72dafadd-2eb7-4687-92de-4067c8a5a200",
+    "userId": "u8",
+    "libraryId": "lib-sincik",
+    "bookId": "b6",
+    "points": 20,
+    "createdAt": "2026-05-22T10:09:42.056Z"
+  },
+  {
+    "id": "378681c7-7cad-43c8-802e-703238be2745",
+    "userId": "u8",
+    "libraryId": "lib-sincik",
+    "bookId": "b6",
+    "points": 20,
+    "createdAt": "2026-05-22T10:09:42.056Z"
+  },
+  {
+    "id": "a6a50d31-8037-41b0-a82b-6b59d64530b0",
+    "userId": "u8",
+    "libraryId": "lib-sincik",
+    "bookId": "b6",
+    "points": 20,
+    "createdAt": "2026-05-22T10:09:42.056Z"
+  },
+  {
+    "id": "300d0213-7b23-4746-8f5f-3b63cd3ceac1",
+    "userId": "u8",
+    "libraryId": "lib-sincik",
+    "bookId": "b6",
+    "points": 20,
+    "createdAt": "2026-05-22T10:09:42.056Z"
+  },
+  {
+    "id": "f433e5c5-71c5-4818-a01b-9c5115d8f4be",
+    "userId": "u8",
+    "libraryId": "lib-sincik",
+    "bookId": "b6",
+    "points": 20,
+    "createdAt": "2026-05-22T10:09:42.056Z"
+  },
+  {
+    "id": "906cdce4-ad99-4d23-bfce-279581a8c1a7",
+    "userId": "u8",
+    "libraryId": "lib-sincik",
+    "bookId": "b6",
+    "points": 20,
+    "createdAt": "2026-05-22T10:09:42.056Z"
+  },
+  {
+    "id": "f9245af8-6e9b-4223-9714-4674069db0ca",
+    "userId": "u8",
+    "libraryId": "lib-sincik",
+    "bookId": "b6",
+    "points": 20,
+    "createdAt": "2026-05-22T10:09:42.056Z"
+  },
+  {
+    "id": "5b163685-5da2-4086-9353-cd7221045f06",
+    "userId": "u8",
+    "libraryId": "lib-sincik",
+    "bookId": "b6",
+    "points": 20,
+    "createdAt": "2026-05-22T10:09:42.056Z"
+  },
+  {
+    "id": "ca278473-5c9d-4cee-8f25-f1d22702c82c",
+    "userId": "u8",
+    "libraryId": "lib-sincik",
+    "bookId": "b6",
+    "points": 20,
+    "createdAt": "2026-05-22T10:09:42.056Z"
+  },
+  {
+    "id": "f20bd214-039e-4928-9526-14804c9b8df3",
+    "userId": "u8",
+    "libraryId": "lib-sincik",
+    "bookId": "b6",
+    "points": 20,
+    "createdAt": "2026-05-22T10:09:42.056Z"
+  },
+  {
+    "id": "5b0cd5cf-f9b5-4866-8306-54221478bbf0",
+    "userId": "u8",
+    "libraryId": "lib-sincik",
+    "bookId": "b6",
+    "points": 20,
+    "createdAt": "2026-05-22T10:09:42.056Z"
+  },
+  {
+    "id": "61389f26-7e9a-426f-be5a-8333c24010c0",
+    "userId": "u8",
+    "libraryId": "lib-sincik",
+    "bookId": "b6",
+    "points": 20,
+    "createdAt": "2026-05-22T10:09:42.056Z"
+  },
+  {
+    "id": "731e10df-f257-4485-abe8-3518c1ec5131",
+    "userId": "u8",
+    "libraryId": "lib-sincik",
+    "bookId": "b6",
+    "points": 20,
+    "createdAt": "2026-05-22T10:09:42.056Z"
+  },
+  {
+    "id": "991f122b-8ee8-4ff1-abfb-431c16e275c4",
+    "userId": "u8",
+    "libraryId": "lib-sincik",
+    "bookId": "b6",
+    "points": 20,
+    "createdAt": "2026-05-22T10:09:42.056Z"
+  },
+  {
+    "id": "b3c95954-9388-4db7-8cf0-d4cb69d47241",
+    "userId": "u8",
+    "libraryId": "lib-sincik",
+    "bookId": "b6",
+    "points": 20,
+    "createdAt": "2026-05-22T10:09:42.056Z"
+  },
+  {
+    "id": "6e5a143d-645c-48c4-8a93-8facae2aa610",
+    "userId": "u8",
+    "libraryId": "lib-sincik",
+    "bookId": "b6",
+    "points": 20,
+    "createdAt": "2026-05-22T10:09:42.056Z"
+  },
+  {
+    "id": "c8cf071f-6e0b-46a4-9f28-51052a80e5ea",
+    "userId": "u8",
+    "libraryId": "lib-sincik",
+    "bookId": "b6",
+    "points": 20,
+    "createdAt": "2026-05-22T10:09:42.056Z"
+  },
+  {
+    "id": "694eae0c-998c-4ae1-87bd-b968c539bace",
+    "userId": "u8",
+    "libraryId": "lib-sincik",
+    "bookId": "b6",
+    "points": 20,
+    "createdAt": "2026-05-22T10:09:42.056Z"
+  },
+  {
+    "id": "5049b9b3-0ecc-4520-bd60-b0a7ea850a74",
+    "userId": "u8",
+    "libraryId": "lib-sincik",
+    "bookId": "b6",
+    "points": 20,
+    "createdAt": "2026-05-22T10:09:42.056Z"
+  },
+  {
+    "id": "c690d6c6-e696-4340-bc78-c73902ca0457",
+    "userId": "u8",
+    "libraryId": "lib-sincik",
+    "bookId": "b6",
+    "points": 20,
+    "createdAt": "2026-05-22T10:09:42.056Z"
+  },
+  {
+    "id": "217d9c51-dbfb-47d5-8e77-71dfbb4de85a",
+    "userId": "u8",
+    "libraryId": "lib-sincik",
+    "bookId": "b6",
+    "points": 20,
+    "createdAt": "2026-05-22T10:09:42.056Z"
+  },
+  {
+    "id": "906de76f-c254-4217-87c1-ed017dc0c79f",
+    "userId": "u8",
+    "libraryId": "lib-sincik",
+    "bookId": "b6",
+    "points": 20,
+    "createdAt": "2026-05-22T10:09:42.056Z"
+  }
+]
